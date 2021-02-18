@@ -1,0 +1,2 @@
+# glory
+Pokemon shield
